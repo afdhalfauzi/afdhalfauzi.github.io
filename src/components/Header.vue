@@ -76,6 +76,7 @@ export default {
     font-family: 'Agustina', sans-serif;
     color: #fff;
     font-weight: 700;
+    margin-left: 20px;
   }
   .opening-name,
   .closing-name {
